@@ -1,0 +1,26 @@
+[
+{
+  "name": "Micheal",
+  "surname": "Diago",
+  "gender": "Male",
+  "dateOfBirth": "06/18/1979"
+},
+{
+  "name": "Collette",
+  "surname": "Mata",
+  "gender": "Female",
+  "dateOfBirth": "05/22/1994"
+},
+{
+  "name": "Antony",
+  "surname": "Watt",
+  "gender": "Male",
+  "dateOfBirth": "08/30/2002"
+},
+{
+  "name": "Martyna",
+  "surname": "Bloggs",
+  "gender": "Female",
+  "dateOfBirth": "11/18/1981"
+}
+]
